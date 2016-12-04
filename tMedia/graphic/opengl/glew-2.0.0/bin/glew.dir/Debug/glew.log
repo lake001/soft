@@ -1,0 +1,9 @@
+﻿  Building Custom Rule E:/Engine/OpenGL/glew-2.0.0/build/cmake/CMakeLists.txt
+  CMake does not need to re-run because E:\Engine\OpenGL\glew-2.0.0\bin\CMakeFiles\generate.stamp is up-to-date.
+  glew.c
+    正在创建库 E:/Engine/OpenGL/glew-2.0.0/bin/lib/Debug/glew32d.lib 和对象 E:/Engine/OpenGL/glew-2.0.0/bin/lib/Debug/glew32d.exp
+glew.obj : error LNK2019: 无法解析的外部符号 @_RTC_CheckStackVars@8，该符号在函数 _glewIsSupported@4 中被引用
+glew.obj : error LNK2019: 无法解析的外部符号 __RTC_CheckEsp，该符号在函数 _glewInit@0 中被引用
+glew.obj : error LNK2001: 无法解析的外部符号 __RTC_InitBase
+glew.obj : error LNK2001: 无法解析的外部符号 __RTC_Shutdown
+E:\Engine\OpenGL\glew-2.0.0\bin\bin\Debug\glew32d.dll : fatal error LNK1120: 4 个无法解析的外部命令

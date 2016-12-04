@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+E:/Engine/OpenGL/freeglut-3.0.0/CMakeLists.txt
+E:/Engine/OpenGL/freeglut-3.0.0/bin/CMakeFiles/3.5.2/CMakeSystem.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeSystemSpecificInitialize.cmake
+E:/Engine/OpenGL/freeglut-3.0.0/bin/CMakeFiles/3.5.2/CMakeCCompiler.cmake
+E:/Engine/OpenGL/freeglut-3.0.0/bin/CMakeFiles/3.5.2/CMakeCXXCompiler.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeGenericSystem.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/WindowsPaths.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeLanguageInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC.cmake
+E:/Engine/OpenGL/freeglut-3.0.0/bin/CMakeFiles/3.5.2/CMakeRCCompiler.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeRCInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCXXInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeLanguageInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/GNUInstallDirs.cmake
+E:/Engine/OpenGL/freeglut-3.0.0/src/fg_version.h.in
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindOpenGL.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckIncludeFiles.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckFunctionExists.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckTypeSize.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckIncludeFile.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckIncludeFileCXX.cmake
+E:/Engine/OpenGL/freeglut-3.0.0/config.h.in
+E:/Engine/OpenGL/freeglut-3.0.0/freeglut.rc.in
+E:/Engine/OpenGL/freeglut-3.0.0/src/freeglutdll.def.in
+E:/Engine/OpenGL/freeglut-3.0.0/freeglut.pc.in

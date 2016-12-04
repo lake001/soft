@@ -1,0 +1,7 @@
+﻿  Building Custom Rule E:/Engine/OpenGL/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because E:\Engine\OpenGL\freeglut-3.0.0\bin\CMakeFiles\generate.stamp is up-to-date.
+  shapes.c
+  glmatrix.c
+  正在生成代码...
+  shapes.vcxproj -> E:\Engine\OpenGL\freeglut-3.0.0\bin\bin\Debug\shapesd.exe
+  shapes.vcxproj -> E:/Engine/OpenGL/freeglut-3.0.0/bin/bin/Debug/shapesd.pdb (Full PDB)

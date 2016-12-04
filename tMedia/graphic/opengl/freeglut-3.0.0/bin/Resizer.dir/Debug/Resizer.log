@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/Engine/OpenGL/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because E:\Engine\OpenGL\freeglut-3.0.0\bin\CMakeFiles\generate.stamp is up-to-date.
+  Resizer.cpp
+  Resizer.vcxproj -> E:\Engine\OpenGL\freeglut-3.0.0\bin\bin\Debug\Resizerd.exe
+  Resizer.vcxproj -> E:/Engine/OpenGL/freeglut-3.0.0/bin/bin/Debug/Resizerd.pdb (Full PDB)

@@ -1,0 +1,57 @@
+﻿GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBindBuffer
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBindBuffer
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBufferData
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBufferData
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBufferSubData
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteBuffers
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteBuffers
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewGenBuffers
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewGenBuffers
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewMapBuffer
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewUnmapBuffer
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewEnableVertexAttribArray
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewEnableVertexAttribArray
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewVertexAttribPointer
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewVertexAttribPointer
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBindVertexArray
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewBindVertexArray
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteVertexArrays
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteVertexArrays
+GLBatch.obj : error LNK2001: 无法解析的外部符号 ___glewGenVertexArrays
+GLTriangleBatch.obj : error LNK2001: 无法解析的外部符号 ___glewGenVertexArrays
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewAttachShader
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewAttachShader
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewBindAttribLocation
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewBindAttribLocation
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewCompileShader
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewCompileShader
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewCreateProgram
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewCreateProgram
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewCreateShader
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewCreateShader
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteProgram
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteProgram
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteShader
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteShader
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramiv
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramiv
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderiv
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderiv
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewGetUniformLocation
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewLinkProgram
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewLinkProgram
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewUniform1i
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewUniform3fv
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewUniform4fv
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewUniformMatrix4fv
+GLShaderManager.obj : error LNK2001: 无法解析的外部符号 ___glewUseProgram
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramInfoLog
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderInfoLog
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewShaderSource
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewValidateProgram
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewGetStringi
+GLTools.obj : error LNK2001: 无法解析的外部符号 ___glewCheckFramebufferStatus
+D:\dev\rt\opengl\lib\glew32.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\glew32.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\glew32s.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+E:\Engine\OpenGL\GLTools-master\bin\Debug\gltools.dll : fatal error LNK1120: 34 个无法解析的外部命令
